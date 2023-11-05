@@ -1,14 +1,8 @@
-# Phase 1 Project
-
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+# Phase 1 Project James Kibunja
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+For this project,i used exploratory data analysis to generate insights for Microsoft IMDB movie recommendation.
 
 ### Business Problem
 
@@ -17,37 +11,29 @@ Microsoft sees all the big companies creating original video content and they wa
 ### The Data
 
 In the folder `zippedData` are movie datasets from:
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
 * imdb.title.basics
 * imdb.title.ratings
 * bom.movie_gross
 
-## Deliverables
+## Results
+1. It was founnd that streaming services contributed to revenue growth and audience engangemnt together with the film industries growth
 
-There are three deliverables for this project:
+   .![download](https://github.com/james-kibunja/dsc-phase-1-project/assets/146899561/19c615ba-2f21-42df-8a99-bf67e5eb2675)
+  
+3. By comparing the two data set i have managed analyze the success of movies according to their producers and genre to recommend.That is: [Drama, Adventer, Comedy, Action, Documentary, Thriller, Biography]
+3.We understode that Domestic gross does affect the revenue with a scatterplot graph.
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+![download](https://github.com/james-kibunja/dsc-phase-1-project/assets/146899561/0b2df6f5-497e-406f-b119-795fbe4c67ce)
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+5. Studios with high revenue are shown in the descending order but when excluding the error bar the chat will flow as: (BV,FOX,SONY,WEIN,LGF,WB,LG/S,UNI,ORF and following...)
 
-### Key Points
+![download](https://github.com/james-kibunja/dsc-phase-1-project/assets/146899561/4bd22641-da4b-447a-9848-d974232b1ca2)
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+   
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
+#conclusion
+By comparing the two data set i have managed analyze the success of movies according to their producers and genre to recommend.That is: [Drama, Adventer, Comedy, Action, Documentary, Thriller, Biography]
 ## Getting Started
 
 Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
@@ -63,3 +49,6 @@ Review the "Project Submission & Review" page in the "Milestones Instructions" t
 ## Summary
 
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+The film industry presents significant growth opportunities.
+Microsoft's new movie studio should create diverse films in popular genres, collaborate with established studios, and capitalize on the growing domestic and foreign markets.
+Success will require ongoing research and adaptation to evolving industry dynamics
